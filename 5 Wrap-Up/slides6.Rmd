@@ -1,0 +1,45 @@
+---
+title: "GEO812"
+author: "Gereon Kaiping"
+date: "10/09/2020"
+output:
+  ioslides_presentation:
+    css: "slides.css"
+subtitle: Session 6
+fontsize: 10pt
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_knit$set(root.dir="/home/gereon/Courses/2022-HS-GEO812/session6/")
+```
+## Wrap-up <img src="images/calvin.jpg" class="right" alt="Calvin is through learning today" />
+
+ - Reproducibility
+ - Tidyverse: Properties × Observations, `%>%`
+ - `ggplot(data) + geom_beautiful(aes(x=x, y=y), cmap=viridis)`
+ - `??help`
+ - `sf` and vector data
+ - `raster` data
+ - Spatial operations & predicates
+ - Lots of plotting
+ 
+## Next days ![Note for Future Self](images/future_self.png)
+
+ - Please share good project solutions with us!
+ - Expect solutions on OLAT around Monday
+ - If you were here, you have passed – and thank you for asking some excellent questions!
+
+## Feedback ![https://assets.padletcdn.com/padlets/h250a8djbt9fua9f/qr_code.png](https://assets.padletcdn.com/padlets/h250a8djbt9fua9f/qr_code.png)
+
+Post your feedback on Padlet: https://padlet.com/gereonkaiping/h250a8djbt9fua9f
+
+## It never ends
+
+There are always more methods, more packages, more data. There's probably one that does what you want, don't give up!
+
+Good luck with future R endeavours!
+```{r}
+
+```
+
+
